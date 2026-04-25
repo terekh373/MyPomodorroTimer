@@ -1,0 +1,13 @@
+C:\Users\User\personal\MyPomodorro\MyPomodorro\bin\Debug\MyPomodorro.exe.config
+C:\Users\User\personal\MyPomodorro\MyPomodorro\bin\Debug\MyPomodorro.exe
+C:\Users\User\personal\MyPomodorro\MyPomodorro\bin\Debug\MyPomodorro.pdb
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.csproj.AssemblyReference.cache
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.MainForm.resources
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.Properties.Resources.resources
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.csproj.GenerateResource.cache
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.csproj.CoreCompileInputs.cache
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.exe
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.pdb
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.exe.config
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.csproj.Fody.CopyLocal.cache
+C:\Users\User\personal\MyPomodorro\MyPomodorro\obj\Debug\MyPomodorro.csproj.Fody.RuntimeCopyLocal.cache
