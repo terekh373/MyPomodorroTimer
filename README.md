@@ -6,7 +6,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-> Built because every Pomodoro app with custom intervals was paid.  
+> Every Pomodoro app with custom intervals was paid.  
 > So I made my own — fully customizable, free, and open source.
 
 </div>
